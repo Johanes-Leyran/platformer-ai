@@ -1,2 +1,2 @@
-# tile-racing
-A simple racing game.
+# Platforer ai
+A simple platformer game with reinforcement-learing
